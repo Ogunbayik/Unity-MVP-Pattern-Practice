@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-factory\\spawner\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-factory\\spawner\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-factory\\enemyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-factory\\enemyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\installers\\mvp-observer-signal\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\installers\\mvp-observer-signal\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnemyView.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Factory\\EnemyView.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-Factory\\EnemyView.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Factory\\EnemyView.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MVP-Factory\\EnemyView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "SignalInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
+              "RelativeToolTip": "Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T11:26:22.704Z",
+              "WhenOpened": "2026-01-03T14:55:19.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SpawnManager.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Factory\\Spawner\\SpawnManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-Factory\\Spawner\\SpawnManager.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Factory\\Spawner\\SpawnManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MVP-Factory\\Spawner\\SpawnManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Title": "GameConstant.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\GameConstant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameConstant.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\GameConstant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T11:26:13.294Z",
+              "WhenOpened": "2026-01-03T14:13:55.282Z",
               "EditorCaption": ""
             }
           ]
