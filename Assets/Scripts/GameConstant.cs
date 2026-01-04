@@ -27,4 +27,15 @@ public static class GameConstant
         public const float SKILL_DESTROY_TIME = 5f;
     }
 
+    public static class InventoryItem
+    {
+        public const string ITEM_SWORD = "Sword";
+        public const string ITEM_STAFF = "Staff";
+        public const string ITEM_POTION = "Potion";
+        public const string ITEM_RAPTOR = "Raptor";
+        public const string ITEM_GOLD = "Gold";
+        public const string ITEM_GEM = "Gem";
+        public const string ITEM_SAND = "Sand";
+    }
+
 }
