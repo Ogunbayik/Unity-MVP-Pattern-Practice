@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-skillmodel-practice\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-skillmodel-practice\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\mvp-skillmodel-practice\\skillpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-skillmodel-practice\\skillpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\installers\\mvp-skillmodel-practice\\skillinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\installers\\mvp-skillmodel-practice\\skillinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\installers\\mvp-observer-signal\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\installers\\mvp-observer-signal\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\mvp-skillmodel-practice\\skillmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-skillmodel-practice\\skillmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\mvp-skillmodel-practice\\iskillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-skillmodel-practice\\iskillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\mvp-skillmodel-practice\\skillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-skillmodel-practice\\skillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SignalInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "RelativeToolTip": "Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Fireball.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\Fireball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-SkillModel-Practice\\Fireball.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\Fireball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MVP-SkillModel-Practice\\Fireball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T14:55:19.716Z",
+              "WhenOpened": "2026-01-03T21:18:34.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "SkillInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-SkillModel-Practice\\SkillInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Installers\\MVP-SkillModel-Practice\\SkillInstaller.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-SkillModel-Practice\\SkillInstaller.cs",
+              "RelativeToolTip": "Assets\\Installers\\MVP-SkillModel-Practice\\SkillInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:08:11.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GameConstant.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\GameConstant.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameConstant.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\GameConstant.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameConstant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T14:13:55.282Z",
+              "WhenOpened": "2026-01-03T19:59:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\SkillPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-SkillModel-Practice\\SkillPresenter.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\SkillPresenter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MVP-SkillModel-Practice\\SkillPresenter.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:13:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISkillView.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\ISkillView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-SkillModel-Practice\\ISkillView.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\ISkillView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MVP-SkillModel-Practice\\ISkillView.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:13:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkillView.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\SkillView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-SkillModel-Practice\\SkillView.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\SkillView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MVP-SkillModel-Practice\\SkillView.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:12:58.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkillModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\SkillModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-SkillModel-Practice\\SkillModel.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-SkillModel-Practice\\SkillModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MVP-SkillModel-Practice\\SkillModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:12:53.586Z",
               "EditorCaption": ""
             }
           ]

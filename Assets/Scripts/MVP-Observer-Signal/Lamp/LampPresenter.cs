@@ -18,14 +18,8 @@ public class LampPresenter : IInitializable, IDisposable
         _model = model;
         _view = view;
     }
-    public void Initialize()
-    {
-        _signalBus.Subscribe<GameSignal.DayNightChangeSignal>(SwitchNightMode);
-    }
-    public void Dispose()
-    {
-        _signalBus.Unsubscribe<GameSignal.DayNightChangeSignal>(SwitchNightMode);
-    }
+    public void Initialize() => _signalBus.Subscribe<GameSignal.DayNightChangeSignal>(SwitchNightMode);
+    public void Dispose() => _signalBus.Unsubscribe<GameSignal.DayNightChangeSignal>(SwitchNightMode);
 
     public void SwitchNightMode(GameSignal.DayNightChangeSignal signal)
     {

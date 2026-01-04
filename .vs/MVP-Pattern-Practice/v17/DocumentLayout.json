@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-observer-signal\\time\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-observer-signal\\time\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-observer-signal\\time\\timeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-observer-signal\\time\\timeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-observer-signal\\time\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-observer-signal\\time\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-observer-signal\\time\\timepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-observer-signal\\time\\timepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\installers\\mvp-observer-signal\\locallampinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\installers\\mvp-observer-signal\\locallampinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\assets\\installers\\mvp-observer-signal\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\installers\\mvp-observer-signal\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\mvp-pattern-practice\\assets\\scripts\\mvp-observer-signal\\time\\timeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459A99F-F96A-0A6F-226A-E6F5756A86B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mvp-observer-signal\\time\\timeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeView.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:27:21.133Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -44,74 +49,35 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimePresenter.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimePresenter.cs",
               "RelativeToolTip": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimePresenter.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:27:22.03Z",
+              "WhenOpened": "2026-01-04T10:25:59.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TimeView.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:27:19.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "TimeModel.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeModel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeModel.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeModel.cs",
               "RelativeToolTip": "Assets\\Scripts\\MVP-Observer-Signal\\Time\\TimeModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:25:31.875Z",
+              "WhenOpened": "2026-01-04T10:27:16.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocalLampInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\LocalLampInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Installers\\MVP-Observer-Signal\\LocalLampInstaller.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\LocalLampInstaller.cs",
-              "RelativeToolTip": "Assets\\Installers\\MVP-Observer-Signal\\LocalLampInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:22:54.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignalInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "RelativeToolTip": "Assets\\Installers\\MVP-Observer-Signal\\SignalInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T14:55:19.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GameConstant.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\GameConstant.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameConstant.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\MVP-Pattern-Practice\\Assets\\Scripts\\GameConstant.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameConstant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T14:13:55.282Z",
+              "WhenOpened": "2026-01-03T19:59:57.716Z",
               "EditorCaption": ""
             }
           ]
